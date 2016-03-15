@@ -7,7 +7,7 @@ As we have 3 programs in this assignment, please name you file as:
  - `Prog-2.c`
  - `Prog-3.c`
 
-If you don't write in C, C++ is also acceptable, just replace the extension `.c` with `.cpp`, if you have other header or class files, please also name as `Prog-1-blah.c`.
+If you don't write in C, C++ is also acceptable, just replace the extension `.c` with `.cpp`, please don't seperate your program to multiple header and class files, only one file for each program.
 
 ## Commit requirement
 Please **at least** commit each program for **two** commits, don't do them all in a single commit.
@@ -26,6 +26,9 @@ Here is an example of the input:
 
 The corresponding output should be:
 `-1 0 2 3 5 5 6 8 10 50 54 564`
+
+## Compilation requirement
+Your program should be compatible with GCC v4.8.x or 4.9.x, FYI, you can use [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) v5.11 with TDM-GCC v4.9.2 on Windows.
 
 ## Q & A
 Please open issue here: https://github.com/NCTU-CSE-Introduction-to-Algorithms/assignment-1-announcement-and-discussion/issues for your questions, TAs will do the best to answer your question or disscuss with you.
