@@ -19,6 +19,8 @@ If you are not familiar with Markdown, [StackEdit](https://stackedit.io/editor) 
 
 ## Input / Output
 
+We use standart input and standard output to as the input of the programs, not file.
+
 The inputs will be multiple numbers that be seperated by space, tab or newline character, and end  with a `x` alphabet.
 
 Here is an example of the input:
