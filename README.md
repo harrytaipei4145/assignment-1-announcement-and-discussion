@@ -21,7 +21,7 @@ If you are not familiar with Markdown, [StackEdit](https://stackedit.io/editor) 
 
 We use standart input and standard output to as the input of the programs, not file.
 
-The inputs will be multiple numbers that be seperated by space, tab or newline character, and end  with a `x` alphabet, there will be at most 1000 inputs.
+The inputs will be multiple numbers that be seperated by space, tab or newline character, and end  with a `x` alphabet, there will be at most 10000 inputs.
 
 Here is an example of the input:
 `10 5 3 6 5 8 50 564 -1 54 0 2 x`
