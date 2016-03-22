@@ -15,5 +15,5 @@ int main 可以進行input並計算總共有幾個integer需要排列，排列�
 利用mid可以找到pivot
 用while迴圈裡呼叫choose的方式找到pivot
 choose的做法和mid的做法一樣選出三個值得最中間值是用if來做
-
+計算running time，一般quicksort>Median-of-3 Partition>Tukey’s ninther 
  [StackEdit](https://stackedit.io/).
